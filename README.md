@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+For now, I will use this README to direct you to [my main website](https://jakebowers.org)
+
 <!--
 **jwbowers/jwbowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
