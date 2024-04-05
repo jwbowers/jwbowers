@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-For now, I will use this README to direct you to [my main website](https://jakebowers.org)
+You can see some of my open source projects on this personal github site.
+
+I also have open source projects on github via my [Lab Organization](https://github.com/bowers-illinois-edu).
+
+And I contribute to projects on the [EGAP github org](https://github.com/egap) and [the General Services Administration github org](https://github.com/GSA).
+
+I am a co-author of [RItools](https://github.com/markmfredrickson/RItools). 
+
+You can learn more about me on [my main website](https://jakebowers.org).
 
 <!--
 **jwbowers/jwbowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
