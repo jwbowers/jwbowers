@@ -6,7 +6,7 @@ You can see some of my open source projects on this personal github site.
 
 And I contribute to projects on the [EGAP github org](https://github.com/egap) and [the General Services Administration github org](https://github.com/GSA) and [the Policy Lab @ Brown University](https://github.com/orgs/thepolicylab).
 
-I am a co-author of [RItools](https://github.com/markmfredrickson/RItools) and some other R packages that are not yet on CRAN. 
+I am a co-author of [RItools](https://github.com/markmfredrickson/RItools) and some other R packages that are not yet on CRAN such as [DrBristol](https://github.com/bowers-illinois-edu/DrBristol) and [manytestsr](https://github.com/bowers-illinois-edu/manytestsr) and [CMRSS](https://github.com/bowers-illinois-edu/CMRSS). 
 
 You can learn more about me on [my main website](https://jakebowers.org).
 
