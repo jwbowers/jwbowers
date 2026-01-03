@@ -2,7 +2,7 @@
 
 You can see some of my open source projects on this personal github site.
 
-**I also have open source projects on github via my [Lab Organization](https://github.com/bowers-illinois-edu).**
+**I also have open source projects on github via my [Lab Organization](https://github.com/bowers-illinois-edu).**🥽🥼🧪
 
 And I contribute to projects on the [EGAP github org](https://github.com/egap) and [the General Services Administration github org](https://github.com/GSA) and [the Policy Lab @ Brown University](https://github.com/orgs/thepolicylab).
 
